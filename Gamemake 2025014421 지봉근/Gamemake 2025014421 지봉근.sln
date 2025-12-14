@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Gamemake 2025014421 지봉근", "Gamemake 2025014421 지봉근\Gamemake 2025014421 지봉근.pyproj", "{30EBD59B-6853-470A-A9CC-F48E655AFB03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EBD59B-6853-470A-A9CC-F48E655AFB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EBD59B-6853-470A-A9CC-F48E655AFB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982BFC3A-EF40-4E1F-85BA-CEAA96B4AF71}
+	EndGlobalSection
+EndGlobal
